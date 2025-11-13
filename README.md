@@ -308,6 +308,8 @@ Deve aparecer:
 
 ## ✅ Resultado final
 
+<img width="823" height="534" alt="image" src="https://github.com/user-attachments/assets/6873b988-de42-4d5b-a135-04481e967642" />
+
 - **Zabbix** rodando
 - **Grafana** rodando para criação de graficos
 - Ambiente documentado para **equipe de Infra** e **auditoria**
