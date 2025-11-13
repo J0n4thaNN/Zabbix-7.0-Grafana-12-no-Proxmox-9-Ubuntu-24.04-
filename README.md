@@ -308,7 +308,10 @@ Deve aparecer:
 
 ## ✅ Resultado final
 
-<img width="823" height="534" alt="image" src="https://github.com/user-attachments/assets/6873b988-de42-4d5b-a135-04481e967642" />
+<img width="525" height="496" alt="image" src="https://github.com/user-attachments/assets/142f8411-004e-4634-a3a8-a4993f3d808a" />
+
+<img width="1161" height="607" alt="image" src="https://github.com/user-attachments/assets/bbc221a4-8678-46e0-92e1-7191d8496abe" />
+
 
 - **Zabbix** rodando
 - **Grafana** rodando para criação de graficos
